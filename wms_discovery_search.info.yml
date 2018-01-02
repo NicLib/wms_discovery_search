@@ -1,0 +1,5 @@
+name: WMS Discovery Search Bar
+description: Module to implement the WMS Discovery Search Bar created by Lauren Magnuson
+type: module
+core: 8.x
+package: Library Tools
